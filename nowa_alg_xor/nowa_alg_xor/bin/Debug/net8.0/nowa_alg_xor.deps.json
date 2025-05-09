@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "nowa_alg_xor/1.0.0": {
+        "runtime": {
+          "nowa_alg_xor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nowa_alg_xor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

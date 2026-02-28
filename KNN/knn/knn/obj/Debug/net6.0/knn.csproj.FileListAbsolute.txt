@@ -1,0 +1,15 @@
+D:\170259\knn\knn\bin\Debug\net6.0\knn.exe
+D:\170259\knn\knn\bin\Debug\net6.0\knn.deps.json
+D:\170259\knn\knn\bin\Debug\net6.0\knn.runtimeconfig.json
+D:\170259\knn\knn\bin\Debug\net6.0\knn.dll
+D:\170259\knn\knn\bin\Debug\net6.0\knn.pdb
+D:\170259\knn\knn\obj\Debug\net6.0\knn.csproj.AssemblyReference.cache
+D:\170259\knn\knn\obj\Debug\net6.0\knn.GeneratedMSBuildEditorConfig.editorconfig
+D:\170259\knn\knn\obj\Debug\net6.0\knn.AssemblyInfoInputs.cache
+D:\170259\knn\knn\obj\Debug\net6.0\knn.AssemblyInfo.cs
+D:\170259\knn\knn\obj\Debug\net6.0\knn.csproj.CoreCompileInputs.cache
+D:\170259\knn\knn\obj\Debug\net6.0\knn.dll
+D:\170259\knn\knn\obj\Debug\net6.0\refint\knn.dll
+D:\170259\knn\knn\obj\Debug\net6.0\knn.pdb
+D:\170259\knn\knn\obj\Debug\net6.0\knn.genruntimeconfig.cache
+D:\170259\knn\knn\obj\Debug\net6.0\ref\knn.dll

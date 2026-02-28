@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\nowa_alg_xor\nowa_alg_xor\obj\Debug\net8.0\nowa_alg_xor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\nowa_alg_xor\nowa_alg_xor\obj\Debug\net8.0\nowa_alg_xor.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\nowa_alg_xor\nowa_alg_xor\obj\Debug\net8.0\nowa_alg_xor.AssemblyInfo.cs
+C:\Users\1\source\repos\nowa_alg_xor\nowa_alg_xor\obj\Debug\net8.0\nowa_alg_xor.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\nowa_alg_xor\nowa_alg_xor\bin\Debug\net8.0\nowa_alg_xor.exe
+C:\Users\1\source\repos\nowa_alg_xor\nowa_alg_xor\bin\Debug\net8.0\nowa_alg_xor.deps.json
+C:\Users\1\source\repos\nowa_alg_xor\nowa_alg_xor\bin\Debug\net8.0\nowa_alg_xor.runtimeconfig.json
+C:\Users\1\source\repos\nowa_alg_xor\nowa_alg_xor\bin\Debug\net8.0\nowa_alg_xor.dll
+C:\Users\1\source\repos\nowa_alg_xor\nowa_alg_xor\bin\Debug\net8.0\nowa_alg_xor.pdb
+C:\Users\1\source\repos\nowa_alg_xor\nowa_alg_xor\obj\Debug\net8.0\nowa_alg_xor.dll
+C:\Users\1\source\repos\nowa_alg_xor\nowa_alg_xor\obj\Debug\net8.0\refint\nowa_alg_xor.dll
+C:\Users\1\source\repos\nowa_alg_xor\nowa_alg_xor\obj\Debug\net8.0\nowa_alg_xor.pdb
+C:\Users\1\source\repos\nowa_alg_xor\nowa_alg_xor\obj\Debug\net8.0\nowa_alg_xor.genruntimeconfig.cache
+C:\Users\1\source\repos\nowa_alg_xor\nowa_alg_xor\obj\Debug\net8.0\ref\nowa_alg_xor.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "alg_genetyczny_zad2/1.0.0": {
+        "runtime": {
+          "alg_genetyczny_zad2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "alg_genetyczny_zad2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

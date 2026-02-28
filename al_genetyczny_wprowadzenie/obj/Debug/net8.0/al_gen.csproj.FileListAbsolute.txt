@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\al_gen\al_gen\bin\Debug\net8.0\al_gen.exe
+C:\Users\1\source\repos\al_gen\al_gen\bin\Debug\net8.0\al_gen.deps.json
+C:\Users\1\source\repos\al_gen\al_gen\bin\Debug\net8.0\al_gen.runtimeconfig.json
+C:\Users\1\source\repos\al_gen\al_gen\bin\Debug\net8.0\al_gen.dll
+C:\Users\1\source\repos\al_gen\al_gen\bin\Debug\net8.0\al_gen.pdb
+C:\Users\1\source\repos\al_gen\al_gen\obj\Debug\net8.0\al_gen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\al_gen\al_gen\obj\Debug\net8.0\al_gen.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\al_gen\al_gen\obj\Debug\net8.0\al_gen.AssemblyInfo.cs
+C:\Users\1\source\repos\al_gen\al_gen\obj\Debug\net8.0\al_gen.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\al_gen\al_gen\obj\Debug\net8.0\al_gen.dll
+C:\Users\1\source\repos\al_gen\al_gen\obj\Debug\net8.0\refint\al_gen.dll
+C:\Users\1\source\repos\al_gen\al_gen\obj\Debug\net8.0\al_gen.pdb
+C:\Users\1\source\repos\al_gen\al_gen\obj\Debug\net8.0\al_gen.genruntimeconfig.cache
+C:\Users\1\source\repos\al_gen\al_gen\obj\Debug\net8.0\ref\al_gen.dll

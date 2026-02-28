@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\al_gen_zad\alg_genetyczny_zad2\bin\Debug\net8.0\alg_genetyczny_zad2.exe
+C:\Users\1\source\repos\al_gen_zad\alg_genetyczny_zad2\bin\Debug\net8.0\alg_genetyczny_zad2.deps.json
+C:\Users\1\source\repos\al_gen_zad\alg_genetyczny_zad2\bin\Debug\net8.0\alg_genetyczny_zad2.runtimeconfig.json
+C:\Users\1\source\repos\al_gen_zad\alg_genetyczny_zad2\bin\Debug\net8.0\alg_genetyczny_zad2.dll
+C:\Users\1\source\repos\al_gen_zad\alg_genetyczny_zad2\bin\Debug\net8.0\alg_genetyczny_zad2.pdb
+C:\Users\1\source\repos\al_gen_zad\alg_genetyczny_zad2\obj\Debug\net8.0\alg_genetyczny_zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\al_gen_zad\alg_genetyczny_zad2\obj\Debug\net8.0\alg_genetyczny_zad2.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\al_gen_zad\alg_genetyczny_zad2\obj\Debug\net8.0\alg_genetyczny_zad2.AssemblyInfo.cs
+C:\Users\1\source\repos\al_gen_zad\alg_genetyczny_zad2\obj\Debug\net8.0\alg_genetyczny_zad2.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\al_gen_zad\alg_genetyczny_zad2\obj\Debug\net8.0\alg_genetyczny_zad2.dll
+C:\Users\1\source\repos\al_gen_zad\alg_genetyczny_zad2\obj\Debug\net8.0\refint\alg_genetyczny_zad2.dll
+C:\Users\1\source\repos\al_gen_zad\alg_genetyczny_zad2\obj\Debug\net8.0\alg_genetyczny_zad2.pdb
+C:\Users\1\source\repos\al_gen_zad\alg_genetyczny_zad2\obj\Debug\net8.0\alg_genetyczny_zad2.genruntimeconfig.cache
+C:\Users\1\source\repos\al_gen_zad\alg_genetyczny_zad2\obj\Debug\net8.0\ref\alg_genetyczny_zad2.dll
